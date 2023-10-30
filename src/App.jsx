@@ -6,7 +6,6 @@ function App() {
   return (
     <>
     {/* We are wrapped up in a react fragmant */}
-    <p>Hello</p>
     </>
   )
 }
